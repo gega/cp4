@@ -37,33 +37,40 @@ These are the latest sources of the cp4 project slightly after the v0.79 publish
 |:--:|
 | *David's Midnight Magic* |
 
-Icicle Works
+| ![Icicle Works](/images/cp4_04.png?raw=true "Icicle Works") |
+|:--:|
+| *Icicle Works* |
 cp4_04.png
 
-Pinpoint
+| ![Pinpoint](/images/cp4_04.png?raw=true "Pinpoint") |
+|:--:|
+| *Pinpoint* |
 cp4_04.png
 
-Total Eclipse
-cp4_07.png
+| ![Total Eclipse](/images/cp4_07.png?raw=true "Total Eclipse") |
+|:--:|
+| *Total Eclipse* |
 
-Genetic
-cp4_07.png
+| ![Genetic](/images/cp4_07.png?raw=true "Genetic") |
+|:--:|
+| *Genetic* |
 
-BlockOut 3D
-cp4_09.png
+| ![BlockOut 3D](/images/cp4_09.png?raw=true "BlockOut 3D") |
+|:--:|
+| *BlockOut 3D* |
 
-Zylon
-cp4_10.png
+| ![Zylon](/images/cp4_10.png?raw=true "Zylon") |
+|:--:|
+| *Zylon* |
 
-Dizzy Dice III
-cp4_12.png
+| ![Dizzy Dice III](/images/cp4_12.png?raw=true "Dizzy Dice III") |
+|:--:|
+| *Dizzy Dice III* |
 
-Robin of Sherwood
-cp4_14.png
+| ![Robin of Sherwood](/images/cp4_14.png?raw=true "Robin of Sherwood") |
+|:--:|
+| *Robin of Sherwood* |
 
-Terror News
-cp4_13.png
-
-
-
-
+| ![Terror News](/images/cp4_13.png?raw=true "Terror News") |
+|:--:|
+| *Terror News* |
