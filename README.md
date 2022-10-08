@@ -1,6 +1,10 @@
-# cp4 sources
+_...25 years ago in a far far away galaxy..._
 
-_collected at 20170319T1925_
+---
+
+# Commodore Plus/4 Emulator for Amiga
+
+_prepared at 20170319T1925_
 
 These are the latest sources of the cp4 project slightly after the v0.79 published.
 
