@@ -29,10 +29,6 @@ These are the latest sources of the cp4 project slightly after the v0.79 publish
 
 ## Games
 
-| ![Internal monitor and debugger](/images/cp4_11.png?raw=true "Internal monitor and debugger") |
-|:--:|
-| *Internal monitor and debugger* |
-
 | ![David's Midnight Magic](/images/cp4_03.png?raw=true "David's Midnight Magic") |
 |:--:|
 | *David's Midnight Magic* |
