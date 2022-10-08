@@ -36,12 +36,10 @@ These are the latest sources of the cp4 project slightly after the v0.79 publish
 | ![Icicle Works](/images/cp4_04.png?raw=true "Icicle Works") |
 |:--:|
 | *Icicle Works* |
-cp4_04.png
 
 | ![Pinpoint](/images/cp4_04.png?raw=true "Pinpoint") |
 |:--:|
 | *Pinpoint* |
-cp4_04.png
 
 | ![Total Eclipse](/images/cp4_07.png?raw=true "Total Eclipse") |
 |:--:|
