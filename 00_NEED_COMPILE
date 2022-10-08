@@ -1,0 +1,21 @@
+
+ You need the following things to recompile the package:
+
+  Softwares:
+
+	gcc		You REALLY need this
+	libnix		If you don't want to use ixemul.library
+	phxass		Or compatible assembler
+	hunk2aout	To convert objects for ld readable format
+	Easy1541	iec.library includes
+	PlaySID		playsid.library includes
+	cp,rm,mv,ls	Or something like these
+	make		Or equivalent
+	CatComp		For make translations
+	includes	Standard AmigaOS includes and gcc includes
+	iec.library	the needed files included in this archive
+
+  Hardware requirements:
+
+	Min 8M FastRAM
+	020+
