@@ -41,7 +41,7 @@ These are the latest sources of the cp4 project slightly after the v0.79 publish
 |:--:|
 | *Icicle Works* |
 
-| ![Pinpoint](/images/cp4_04.png?raw=true "Pinpoint") |
+| ![Pinpoint](/images/cp4_05.png?raw=true "Pinpoint") |
 |:--:|
 | *Pinpoint* |
 
