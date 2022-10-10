@@ -49,7 +49,7 @@ These are the latest sources of the cp4 project slightly after the v0.79 publish
 |:--:|
 | *Total Eclipse* |
 
-| ![Genetic](/images/cp4_07.png?raw=true "Genetic") |
+| ![Genetic](/images/cp4_08.png?raw=true "Genetic") |
 |:--:|
 | *Genetic* |
 
